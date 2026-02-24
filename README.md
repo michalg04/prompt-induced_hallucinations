@@ -1,7 +1,7 @@
 # Mechanisms of Prompt-Induced Hallucination in Vision–Language Models
 <img width="922" height="428" alt="Screenshot 2026-02-24 at 4 13 27 PM" src="https://github.com/user-attachments/assets/1d87c718-e2c8-4380-92ab-76e3ba7dd738" />
 
-This repository contains code for the paper [Mechanisms of Prompt-Induced Hallucination in Vision–Language Models](https://arxiv.org/pdf/2601.05201). The repository includes:
+This repository contains code for the paper [Mechanisms of Prompt-Induced Hallucination in Vision–Language Models](https://arxiv.org/pdf/2601.05201):
 
 - Baseline evaluation (counting + color tasks)
 - Attention head knockouts
