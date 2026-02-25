@@ -269,5 +269,13 @@ qwen_count_confidence_by_class_knockout_0.0_decoupled.pkl
 
 If you use this code, please cite:
 
-> Mechanisms of Prompt-Induced Hallucination in Vision–Language Models
+> @misc{rudman2026mechanismspromptinducedhallucinationvisionlanguage,
+      title={Mechanisms of Prompt-Induced Hallucination in Vision-Language Models},
+      author={William Rudman and Michal Golovanevsky and Dana Arad and Yonatan Belinkov and Ritambhara Singh and Carsten Eickhoff and Kyle Mahowald},
+      year={2026},
+      eprint={2601.05201},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.05201},
+}.
 
